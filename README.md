@@ -19,13 +19,9 @@ Responsive Design: Adapts to various device screen sizes to ensure a seamless ex
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To start working with Flutter and Firebase, explore the following resources:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Lab: Write your first Flutter app – A step-by-step tutorial to create your first Flutter application.
+Firebase Authentication for Flutter – Official documentation on integrating Firebase Authentication into your Flutter app.
+Flutter Cookbook: Useful Flutter samples – Practical examples and tips for Flutter development.
+Flutter Documentation – Comprehensive resources for Flutter development including tutorials, guides, and API references.
